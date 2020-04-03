@@ -2,7 +2,7 @@
 
 Launch a Jenkins instance on Docker.
 
-## Create Jenkins
+## Create Jenkins Container
 
 1. Create the container
     ```sh

@@ -20,6 +20,7 @@ Launch a Jenkins instance on Docker.
     This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
     ...
     ```
+ 3. Go to [http://localhost:8080/](http://localhost:8080/)
 
 
 ## Notes
